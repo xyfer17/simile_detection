@@ -1,2 +1,2 @@
-# simile_detection
+# smile_detection
  
